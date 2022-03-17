@@ -1,0 +1,9 @@
+D:\MYALI\G3\G3NÖ_B\Hafta4\AlanHesapla\AlanHesapla\bin\Debug\AlanHesapla.dll
+D:\MYALI\G3\G3NÖ_B\Hafta4\AlanHesapla\AlanHesapla\bin\Debug\AlanHesapla.pdb
+D:\MYALI\G3\G3NÖ_B\Hafta4\AlanHesapla\AlanHesapla\bin\Debug\AlanHesapla.xml
+D:\MYALI\G3\G3NÖ_B\Hafta4\AlanHesapla\AlanHesapla\obj\Debug\AlanHesapla.Resources.resources
+D:\MYALI\G3\G3NÖ_B\Hafta4\AlanHesapla\AlanHesapla\obj\Debug\AlanHesapla.vbproj.GenerateResource.cache
+D:\MYALI\G3\G3NÖ_B\Hafta4\AlanHesapla\AlanHesapla\obj\Debug\AlanHesapla.vbproj.CoreCompileInputs.cache
+D:\MYALI\G3\G3NÖ_B\Hafta4\AlanHesapla\AlanHesapla\obj\Debug\AlanHesapla.dll
+D:\MYALI\G3\G3NÖ_B\Hafta4\AlanHesapla\AlanHesapla\obj\Debug\AlanHesapla.xml
+D:\MYALI\G3\G3NÖ_B\Hafta4\AlanHesapla\AlanHesapla\obj\Debug\AlanHesapla.pdb

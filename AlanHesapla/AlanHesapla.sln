@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.30907.101
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{F184B08F-C81C-45F6-A57F-5ABD9991F28F}") = "AlanHesapla", "AlanHesapla\AlanHesapla.vbproj", "{1CB54264-C0B7-4F2D-BD86-4BCAF72874B7}"
+EndProject
+Project("{F184B08F-C81C-45F6-A57F-5ABD9991F28F}") = "AlanDllKullanimi", "AlanDllKullanimi\AlanDllKullanimi.vbproj", "{58FFE6A7-B5DF-4A5B-9CDE-8E9592E5FBE4}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{1CB54264-C0B7-4F2D-BD86-4BCAF72874B7}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{1CB54264-C0B7-4F2D-BD86-4BCAF72874B7}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{1CB54264-C0B7-4F2D-BD86-4BCAF72874B7}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{1CB54264-C0B7-4F2D-BD86-4BCAF72874B7}.Release|Any CPU.Build.0 = Release|Any CPU
+		{58FFE6A7-B5DF-4A5B-9CDE-8E9592E5FBE4}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{58FFE6A7-B5DF-4A5B-9CDE-8E9592E5FBE4}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{58FFE6A7-B5DF-4A5B-9CDE-8E9592E5FBE4}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{58FFE6A7-B5DF-4A5B-9CDE-8E9592E5FBE4}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {5E213999-2FD7-4263-850F-720873AE10D2}
+	EndGlobalSection
+EndGlobal

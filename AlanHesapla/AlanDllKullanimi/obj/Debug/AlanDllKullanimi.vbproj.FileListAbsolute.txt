@@ -1,0 +1,14 @@
+D:\MYALI\G3\G3NÖ_B\Hafta4\AlanHesapla\AlanDllKullanimi\bin\Debug\AlanDllKullanimi.exe.config
+D:\MYALI\G3\G3NÖ_B\Hafta4\AlanHesapla\AlanDllKullanimi\bin\Debug\AlanDllKullanimi.exe
+D:\MYALI\G3\G3NÖ_B\Hafta4\AlanHesapla\AlanDllKullanimi\bin\Debug\AlanDllKullanimi.pdb
+D:\MYALI\G3\G3NÖ_B\Hafta4\AlanHesapla\AlanDllKullanimi\bin\Debug\AlanDllKullanimi.xml
+D:\MYALI\G3\G3NÖ_B\Hafta4\AlanHesapla\AlanDllKullanimi\bin\Debug\AlanHesapla.dll
+D:\MYALI\G3\G3NÖ_B\Hafta4\AlanHesapla\AlanDllKullanimi\obj\Debug\AlanDllKullanimi.vbprojAssemblyReference.cache
+D:\MYALI\G3\G3NÖ_B\Hafta4\AlanHesapla\AlanDllKullanimi\obj\Debug\AlanDllKullanimi.Form1.resources
+D:\MYALI\G3\G3NÖ_B\Hafta4\AlanHesapla\AlanDllKullanimi\obj\Debug\AlanDllKullanimi.Resources.resources
+D:\MYALI\G3\G3NÖ_B\Hafta4\AlanHesapla\AlanDllKullanimi\obj\Debug\AlanDllKullanimi.vbproj.GenerateResource.cache
+D:\MYALI\G3\G3NÖ_B\Hafta4\AlanHesapla\AlanDllKullanimi\obj\Debug\AlanDllKullanimi.vbproj.CoreCompileInputs.cache
+D:\MYALI\G3\G3NÖ_B\Hafta4\AlanHesapla\AlanDllKullanimi\obj\Debug\AlanDllKullanimi.vbproj.CopyComplete
+D:\MYALI\G3\G3NÖ_B\Hafta4\AlanHesapla\AlanDllKullanimi\obj\Debug\AlanDllKullanimi.exe
+D:\MYALI\G3\G3NÖ_B\Hafta4\AlanHesapla\AlanDllKullanimi\obj\Debug\AlanDllKullanimi.xml
+D:\MYALI\G3\G3NÖ_B\Hafta4\AlanHesapla\AlanDllKullanimi\obj\Debug\AlanDllKullanimi.pdb
